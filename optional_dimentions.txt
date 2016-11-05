@@ -1,0 +1,39 @@
+Global specs:
+
+	Font style : arial
+	orange color : f16521
+	grey color : 5d5d5d
+	white color : ffffff
+
+
+Page Section Specs:
+
+
+HOME PAGE
+
+splash
+	container : 1280 x 600px
+	headline font size : 76px, bold
+	navigation font size : 30px, bold
+
+button
+	size : 265 x 55px
+
+Button text 
+	font size: 30px, bold
+
+
+icons
+	headline font size : 24 px, bold
+
+
+SUB-PAGE
+
+splash
+	container : 1280 x 250 px
+	headline font size : 76px, bold
+
+copy
+	headline font size : 24 px, bold
+	text font size : 30px, bold
+
